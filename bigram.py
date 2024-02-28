@@ -122,11 +122,11 @@ for iter in range(max_iters):
     print("Calculating loss")
     logits, loss = model(xb, yb)
     print("Zeroing grads")
-    optimizer.zero_grad(set_to_none=True)
-    print("Backprop")
-    loss.backward()
-    print("Step")
-    optimizer.step()
+    # optimizer.zero_grad(set_to_none=True)
+    # print("Backprop")
+    # loss.backward()
+    # print("Step")
+    # optimizer.step()
 
 # generate from the model
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
