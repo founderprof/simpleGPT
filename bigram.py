@@ -103,9 +103,9 @@ print("Creating Model")
 model = BigramLanguageModel(vocab_size)
 m = model.to(device)
 
-#print("Starting Training Loop")
-## create a PyTorch optimizer
-#optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+print("Starting Training Loop")
+# create a PyTorch optimizer
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
 #for iter in range(max_iters):
 #
