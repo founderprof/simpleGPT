@@ -11,7 +11,9 @@ eval_interval = 1
 learning_rate = 1e-2
 # device = 'cuda' if torch.cuda.is_available() else 'cpu'
 eval_iters = 200
+print(batch_size, block_size, max_iters, eval_interval, learning_rate, eval_iters)
 # ------------
+
 
 torch.manual_seed(1337)
 print("Opening Datafile")
