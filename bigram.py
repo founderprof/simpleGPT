@@ -119,9 +119,9 @@ for iter in range(max_iters):
     xb, yb = get_batch('train')
 
 #     # evaluate the loss
-    print("Calculating loss")
-    logits, loss = model(xb, yb)
-    print("Zeroing grads")
+    # print("Calculating loss")
+    # logits, loss = model(xb, yb)
+    # print("Zeroing grads")
     # optimizer.zero_grad(set_to_none=True)
     # print("Backprop")
     # loss.backward()
