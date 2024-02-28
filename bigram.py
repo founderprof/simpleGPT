@@ -1,3 +1,4 @@
+print("Starting Script")
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
@@ -13,7 +14,7 @@ eval_iters = 200
 # ------------
 
 torch.manual_seed(1337)
-
+print("Opening Datafile")
 # wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 with open('input.txt', 'r', encoding='utf-8') as f:
     text = f.read()
@@ -95,9 +96,11 @@ class BigramLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
         return idx
 
+print("Creating Model")
 model = BigramLanguageModel(vocab_size)
 m = model.to(device)
 
+print("Starting Training Loop")
 # create a PyTorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
