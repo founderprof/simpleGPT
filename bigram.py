@@ -1,4 +1,4 @@
-print("Starting Script")
+print("Starting Script", flush=True)
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
@@ -17,7 +17,7 @@ print(batch_size, block_size, max_iters, eval_interval, learning_rate, eval_iter
 
 
 torch.manual_seed(1337)
-print("Opening Datafile")
+print("Opening Datafile", flush=True)
 # wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 with open('input.txt', 'r', encoding='utf-8') as f:
     text = f.read()
@@ -41,13 +41,13 @@ val_data = data[n:]
 def get_batch(split):
     # generate a small batch of data of inputs x and targets y
     data = train_data if split == 'train' else val_data
-    print("Torch randint")
+    print("Torch randint", flush=True)
     ix = torch.randint(len(data) - block_size, (batch_size,))
-    print("Torch stack 1")
+    print("Torch stack 1", flush=True)
     x = torch.stack([data[i:i+block_size] for i in ix])
-    print("Torch stack 2")
+    print("Torch stack 2", flush=True)
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
-    print("Push data to device")
+    print("Push data to device", flush=True)
     x, y = x.to(device), y.to(device)
     return x, y
 
@@ -103,11 +103,11 @@ class BigramLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
         return idx
 
-print("Creating Model")
+print("Creating Model", flush=True)
 model = BigramLanguageModel(vocab_size)
 m = model.to(device)
 
-print("Starting Training Loop")
+print("Starting Training Loop", flush=True)
 # create a PyTorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
@@ -116,23 +116,23 @@ for iter in range(max_iters):
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0:
         losses = estimate_loss()
-        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}", flush=True)
 
     # sample a batch of data\
-    print("Getting batch")
+    print("Getting batch", flush=True)
     xb, yb = get_batch('train')
 
-#     # evaluate the loss
-    # print("Calculating loss")
-    # logits, loss = model(xb, yb)
-    # print("Zeroing grads")
-    # optimizer.zero_grad(set_to_none=True)
-    # print("Backprop")
-    # loss.backward()
-    # print("Step")
-    # optimizer.step()
+    # evaluate the loss
+    print("Calculating loss", flush=True)
+    logits, loss = model(xb, yb)
+    print("Zeroing grads", flush=True)
+    optimizer.zero_grad(set_to_none=True)
+    print("Backprop", flush=True)
+    loss.backward()
+    print("Step", flush=True)
+    optimizer.step()
 
 # generate from the model
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
 print(decode(m.generate(context, max_new_tokens=500)[0].tolist()))
-print("Done with bigram script")
+print("Done with bigram script", flush=True)
