@@ -9,7 +9,7 @@ block_size = 8 # what is the maximum context length for predictions?
 max_iters = 5
 eval_interval = 1
 learning_rate = 1e-2
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+# device = 'cuda' if torch.cuda.is_available() else 'cpu'
 eval_iters = 200
 # ------------
 
