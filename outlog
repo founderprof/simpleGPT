@@ -1,0 +1,3317 @@
+Starting Script
+32 8 10 5 0.01 200
+Opening Datafile
+Creating Model
+Starting Training Loop
+Optimizer setup done
+Iteration 0
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+step 0: train loss 4.7305, val loss 4.7241
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 1
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 2
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 3
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 4
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 5
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+step 5: train loss 4.6728, val loss 4.6674
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 6
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 7
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 8
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+Iteration 9
+Getting batch
+Torch randint
+Torch stack 1
+Torch stack 2
+Push data to device
+Calculating loss
+Zeroing grads
+Backprop
+Step
+
+j;JM?wocUEXx$gmID3bXOI'txz;AN'JAU&v'dxjYTzWJitxIEsBLI&xqBiNXSPNmnOb
+oinq3HC 'A:wfDIWVCEiFIdcP,bo,d,i
+EcotUAU-tC-M:C;a'aJ$IBk$WTbnyJ?YLUBq-ocF$ fNxZRSVzDqf'dfxWHzdYlxcOR;oiOSAHc;lxKSqfRTq,SjxFwf?aXeXIcOS3DItKw'Mc-RF$$CH.Ea
+yeLEs;Ac;q$
+j?sBi.,lx:zEsARjsxqhen&vkzLIcUA CMCjv.:zK'Dyev'BNx-rQL-QbOpxZyYCYIB-gHo'VjafabVJ&bdSL,3ZeAWWZBjbfoMpVxEAxqUNmRkJMYpxB!UHmNeQMD$Vjus:3yGd'jNNSiWbcD
+prU VTN&lx:qbWcGnpw3SQbRjslyuXEHzdBOiyIlFlFnXxf&-ttRpYjxo'!lQJr&DOmTEHrN.gCKzuDHObjJvMkzP!:CjKp$
+ckpUDpsBL,XNlgC$RSVz k
+Done with bigram script
