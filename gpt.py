@@ -198,7 +198,7 @@ class GPTLanguageModel(nn.Module):
 model = GPTLanguageModel()
 m = model.to(device)
 # print the number of parameters in the model
-print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters')
+print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters', flush=True)
 
 # create a PyTorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
@@ -208,7 +208,7 @@ for iter in range(max_iters):
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0 or iter == max_iters - 1:
         losses = estimate_loss()
-        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}", flush=True)
 
     # sample a batch of data
     xb, yb = get_batch('train')
