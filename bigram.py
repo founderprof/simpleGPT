@@ -111,8 +111,10 @@ print("Starting Training Loop", flush=True)
 # create a PyTorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
-for iter in range(max_iters):
+print("Optimizer setup done", flush=True)
 
+for iter in range(max_iters):
+    print(f"Iteration {iter}", flush=True)
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0:
         losses = estimate_loss()
