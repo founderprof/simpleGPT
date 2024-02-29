@@ -9,8 +9,7 @@ block_size = 8 # what is the maximum context length for predictions?
 max_iters = 10
 eval_interval = 5
 learning_rate = 1e-2
-# device = 'cuda' if torch.cuda.is_available() else 'cpu'
-device = 'cpu'
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 eval_iters = 200
 print(batch_size, block_size, max_iters, eval_interval, learning_rate, eval_iters)
 # ------------
@@ -58,7 +57,9 @@ def estimate_loss():
     for split in ['train', 'val']:
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
+            print(f"EL: Get batch on Iteration {k}", flush=True)
             X, Y = get_batch(split)
+            print(f"EL: Calculate Loss on Iteration {k}", flush=True)
             logits, loss = model(X, Y)
             losses[k] = loss.item()
         out[split] = losses.mean()
