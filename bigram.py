@@ -41,13 +41,13 @@ val_data = data[n:]
 def get_batch(split):
     # generate a small batch of data of inputs x and targets y
     data = train_data if split == 'train' else val_data
- #   print("Torch randint", flush=True)
+    print("Torch randint", flush=True)
     ix = torch.randint(len(data) - block_size, (batch_size,))
- #   print("Torch stack 1", flush=True)
+    print("Torch stack 1", flush=True)
     x = torch.stack([data[i:i+block_size] for i in ix])
- #   print("Torch stack 2", flush=True)
+    print("Torch stack 2", flush=True)
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
- #   print("Push data to device", flush=True)
+    print("Push data to device", flush=True)
     x, y = x.to(device), y.to(device)
     return x, y
 
