@@ -51,9 +51,7 @@ def estimate_loss():
     for split in ['train', 'val']:
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
-            print(f"EL: Get batch on Iteration {k}", flush=True)
             X, Y = get_batch(split)
-            print(f"EL: Calculate Loss on Iteration {k}", flush=True)
             logits, loss = model(X, Y)
             losses[k] = loss.item()
         out[split] = losses.mean()
